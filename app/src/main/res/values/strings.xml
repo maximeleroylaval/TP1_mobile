@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="fullname">Maxime Leroy</string>
+    <string name="firstname">Maxime</string>
+    <string name="lastname">Leroy</string>
+    <string name="idul">MALER65</string>
+    <string name="mobile_url">https://www.reddit.com/r/dankmemes</string>
+    <string name="button_web_ext">Site Web (ext)</string>
+    <string name="button_web_wv">Site Web (wv)</string>
+    <string name="button_university">Ulaval</string>
+    <string name="button_profil">Mon Profil</string>
+    <string name="button_close">Fermer</string>
+    <string name="idul_display">IDUL</string>
+    <string name="birthdate_display">Date de naissance</string>
+    <string name="lastname_display">Nom de famille</string>
+    <string name="firstname_display">Prénom</string>
+</resources>

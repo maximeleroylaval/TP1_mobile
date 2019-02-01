@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="birth_day">19</integer>
+    <integer name="birth_month">11</integer>
+    <integer name="birth_year">1997</integer>
+</resources>
